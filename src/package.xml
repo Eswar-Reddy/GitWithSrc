@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ApexCls01</members>
+        <members>ApexCls02</members>
+        <members>AppCls01Profile</members>
+        <members>AppCls1</members>
+        <members>AppCls2</members>
+        <members>AppCls3</members>
+        <members>AppClsProfile</members>
+        <members>AppClsProfile1</members>
+        <members>MessageInfo</members>
+        <members>MyHelloWorld</members>
+        <members>MyWorld</members>
+        <members>NewCusomClass</members>
+        <members>NewWelcome</members>
+        <members>NewYearMsg</members>
+        <members>Sample</members>
+        <members>Welcome</members>
+        <name>ApexClass</name>
+    </types>
+    <version>36.0</version>
+</Package>
