@@ -35,4 +35,32 @@
         <shortDescription>CustomLabel1</shortDescription>
         <value>test</value>
     </labels>
+    <labels>
+        <fullName>Cl10</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Cl10</shortDescription>
+        <value>cl10</value>
+    </labels>
+    <labels>
+        <fullName>Cl9</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Cl9</shortDescription>
+        <value>Cl9</value>
+    </labels>
+    <labels>
+        <fullName>CustomLabel2</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CustomLabel2</shortDescription>
+        <value>cst2</value>
+    </labels>
+    <labels>
+        <fullName>CustomLabel3</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CustomLabel3</shortDescription>
+        <value>CustomLabel3</value>
+    </labels>
 </CustomLabels>
